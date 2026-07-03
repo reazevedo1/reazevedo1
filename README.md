@@ -1,10 +1,9 @@
 ### Oiie! Eu sou a Rebeca Azevedo 
 
-- 🔭 Hoje trabalho como desenvolvedora FronEnd na WX3-ecommerce
+- 🔭 Hoje trabalho como desenvolvedora Pleno na WX3-ecommerce
 - 🐺 Curso Sistemas de Informação no CEFET/RJ (campus NF)
 - 🐺 Me formei em 2022 como técnico em informática pelo CEFET/RJ (campus NF)
 - 💪 Domino o frontend
-- 💻 Estudando React.Js/Next.Js e TypeScript
 
 ⚠️A maior parte dos meus projetos está hospedada no GitLab, pois são repositórios privados relacionados ao meu trabalho. Por isso, minhas contribuições públicas aqui no GitHub são limitadas. No entanto, continuo ativa e constantemente aprimorando minhas habilidades e aprendendo novas tecnologias.
 Se quiser conhecer meu portfólio com projetos mais recentes, sinta-se à vontade para entrar em contato comigo!⚠️
